@@ -1,0 +1,23 @@
+.comment-list {
+    list-style: none;
+  }
+
+  .post {
+    margin-bottom: 6px;
+    padding: 50px;
+    border: 5px solid rgba(133, 133, 133, 0.5);
+
+   
+  }
+  
+  .post-title {
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+
+  .post-list {
+    max-width: 960px;
+    margin: 0 auto;
+ 
+  }
